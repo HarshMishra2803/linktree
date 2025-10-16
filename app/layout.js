@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Linktree - your favorite link sharing site",
-  description: "we brough a revolution in link sharing ",
+  description: "we brough a revolution in link sharing  add more links",
 };
 
 export default function RootLayout({ children }) {
