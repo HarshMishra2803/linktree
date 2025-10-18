@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Linktree - your favorite link sharing site",
+  title: "Linktree - your favorite link sharing sites",
   description: "we brough a revolution in link sharing  add more links",
 };
 
